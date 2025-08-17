@@ -29,28 +29,7 @@ A simple events management frontend page built with the MERN stack (MongoDB, Exp
 - **Sample Data**: Pre-seeded with 5 sample events including TechSprint 2025
 - **Scalable Design**: Ready for production deployment
 
-
-mern-events-app/
-├── client/                 # React frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/     # React components
-│   │   │   ├── Navbar.js   # Navigation component
-│   │   │   ├── Footer.js   # Footer component
-│   │   │   ├── Home.js     # Home page
-│   │   │   ├── About.js    # About page
-│   │   │   ├── Contact.js  # Contact page
-│   │   │   └── EventsSection.js # Events display
-│   │   ├── App.js          # Main App component
-│   │   └── index.js        # Entry point
-│   └── package.json
-├── server.js               # Express server
-├── seedData.js            # Database seeding script
-├── config.env             # Environment variables
-└── package.json
-```
-
-## Pages & Components
+### Pages & Components
 
 ### Navigation Bar
 - **Logo**: EventHub branding
